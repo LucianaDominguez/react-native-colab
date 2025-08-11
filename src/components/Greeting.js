@@ -36,6 +36,9 @@ const styles = StyleSheet.create({
   inner: {
     alignItems: 'center',
     paddingHorizontal: 32,
+    paddingTop: 150,
+    paddingBottom: 80,
+    marginBottom:30,
   },
   avatar: {
     width: 96,
