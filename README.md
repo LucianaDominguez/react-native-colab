@@ -148,6 +148,10 @@ npm install -g expo-cli
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
+<!-- CONTRIBUTOR COMMENTS -->
+## Contributor comments
+- Ari checked useState at Counter component
+- Luciana checked the Greeting component
 
 <!-- USAGE EXAMPLES -->
 ## Usage
